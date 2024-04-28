@@ -93,6 +93,12 @@ li{
     object-fit: cover;
 }
 
+#project4-pic{
+    width: 700px;
+    height: 1000px;
+    object-fit: cover;
+}
+
 #email{
     color: var(--mainTextColor);
 }
@@ -186,6 +192,11 @@ li{
     #project2-pic{
         width: 600px;
         height: 450px;
+    }
+
+    #project4-pic{
+        width: 700px;
+        height: 1000px;
     }
 
     .card--work-history{
