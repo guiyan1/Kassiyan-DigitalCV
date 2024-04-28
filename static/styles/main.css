@@ -94,7 +94,8 @@ li{
 
 
 #socials--list a{
-   font-size: size 0.9em;
+   font-weight: 300;
+   font-size: 0.9em;
    color: var(--secondaryTextColor);
    transition: 0.3s;
 }
@@ -118,6 +119,7 @@ li{
     border: 1px solid var(--mainBorderColor);
     padding: 0.5em 1em;
     border-radius: 5px;
+    align-items: center;
 }
 
 .card--work-history{
@@ -140,7 +142,7 @@ li{
 
 .card--project a{
     color: var(--mainTextColor);
-    transition: .3s;
+    transition: 0.3s;
 }
 
 .card--project a:hover{
