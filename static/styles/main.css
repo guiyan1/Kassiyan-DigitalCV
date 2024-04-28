@@ -82,6 +82,7 @@ li{
 }
 
 #project-pic{
+    border-radius: 20%;
     width: 350px;
     height: 200px;
     object-fit: cover;
